@@ -21,7 +21,7 @@ The Things network support various integrations to make the data available:
 |---|---|
 | [MQTT](https://www.thethingsnetwork.org/docs/applications/mqtt/) | |
 | [Storage](https://www.thethingsnetwork.org/docs/applications/storage/) | [`thethingsnetwork_storage`](/component/sensor.thethingsnetwork_storage/) |
-| [HTTP](https://www.thethingsnetwork.org/docs/applications/http/} | |
+| [HTTP](https://www.thethingsnetwork.org/docs/applications/http/) | |
 
 ### {% linkable_title Setup %}
 
